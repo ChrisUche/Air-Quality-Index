@@ -5,3 +5,8 @@ Air pollution is the contamination of air due to the presence of substances in t
 
 dataset is scrapped from the IQAir website.
 almost 6k most polluted cities are covered in it.
+# Language used
+R
+# Data Cleaning
+The dataset was uploaded into R and I basicaly identified if NA values (missing values) where present and replaced them with the mean of each column
+# Power Bi Dashboard
