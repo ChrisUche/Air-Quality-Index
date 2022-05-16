@@ -10,3 +10,4 @@ R
 # Data Cleaning
 The dataset was uploaded into R and I basicaly identified if NA values (missing values) were present and replaced them with the mean of each column
 # Power Bi Dashboard
+![IMG_1300](https://user-images.githubusercontent.com/101889570/168634864-04d2d2f8-8bb1-4ede-aebf-f67b56d16645.JPG)
